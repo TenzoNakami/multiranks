@@ -39,7 +39,7 @@ $lang = array_merge($lang, array(
 		'ACP_CHANGE_RANKS'		=> 'Change Ranks',
 
 		'ACP_NO_SPEC_RANK'	=> 'No special rank assigned',
-		'ACP_RANK_ONE'		=> 'Special Rank one',
-		'ACP_RANK_TWO'		=> 'Special Rank two',
-		'ACP_RANK_THREE'	=> 'Special Rank three',
+		'ACP_RANK_ONE'		=> 'Special Rank One',
+		'ACP_RANK_TWO'		=> 'Special Rank Two',
+		'ACP_RANK_THREE'	=> 'Special Rank Three',
 ));
